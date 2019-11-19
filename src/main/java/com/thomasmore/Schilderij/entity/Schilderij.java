@@ -20,4 +20,7 @@ public class Schilderij {
 
     @Column(name="artiestID")
     private int artiestID;
+
+    @Column(name="imageUrl")
+    private String imageUrl;
 }
