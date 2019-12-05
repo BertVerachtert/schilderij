@@ -1,6 +1,6 @@
 # Schilderij
 Deze service maakt deel uit van een groter project: wikiart.  
-schilderij is een Spring Boot microservice gemaakt om Foto's van bepaalde artiesten te tonen uit een ElephanDB database. De gegevens worden doorgestuurd naar een Eureka service en op hun beurt naar de edge service.
+schilderij is een Spring Boot microservice gemaakt om Foto's van bepaalde artiesten te tonen uit een ElephanDB database. De gegevens worden opgeroepen vanuit de angular applicatie die verbind met een spring boot backend.
 
 Andere repo's voor deze applicatie:
 https://github.com/WesleyMonten/Genre-Service  
